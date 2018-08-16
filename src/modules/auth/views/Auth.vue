@@ -29,7 +29,7 @@
   import {AUTH_REQUEST} from '../store/actions.js'
 
   export default {
-    name: 'login',
+    name: 'auth',
     data () {
       return {
         username: null,
